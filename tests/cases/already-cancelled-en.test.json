@@ -1,0 +1,16 @@
+{
+  "$schema": "flowstore://test/case/v0",
+  "id": "already-cancelled-en",
+  "name": "Says already cancelled",
+  "user_turns": [
+    "hi, what is this regarding?",
+    "speaking. Arjun Mehta, 4th of June 1978.",
+    "I already cancelled this appointment last week, why are you calling me again?",
+    "I called on Tuesday and the receptionist confirmed it. this is really annoying."
+  ],
+  "language": "EN",
+  "scenario_id": "already-cancelled",
+  "tags": [
+    "src:example"
+  ]
+}

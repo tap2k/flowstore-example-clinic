@@ -1,0 +1,16 @@
+{
+  "$schema": "flowstore://test/case/v0",
+  "id": "confirm-en",
+  "name": "Cooperative confirm",
+  "user_turns": [
+    "hello, who's calling?",
+    "yes, this is Meera Nair, date of birth 12 March 1985.",
+    "oh right, the appointment. what time was it again?",
+    "yes that works, I'll be there. thanks."
+  ],
+  "language": "EN",
+  "scenario_id": "confirm",
+  "tags": [
+    "src:example"
+  ]
+}

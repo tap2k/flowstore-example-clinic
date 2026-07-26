@@ -1,0 +1,16 @@
+{
+  "$schema": "flowstore://test/case/v0",
+  "id": "already-cancelled-hi",
+  "name": "Says already cancelled",
+  "user_turns": [
+    "haan boliye, kaun bol raha hai?",
+    "haan main hi bol raha hoon. Arjun Mehta, 4 June 1978.",
+    "arre maine to pichhle hafte hi cancel kar diya tha, phir bhi call aa raha hai?",
+    "Tuesday ko call kiya tha, receptionist ne confirm bhi kiya tha. baar baar call mat karo yaar."
+  ],
+  "language": "HI",
+  "scenario_id": "already-cancelled",
+  "tags": [
+    "src:example"
+  ]
+}
